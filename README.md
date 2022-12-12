@@ -4,7 +4,7 @@
 ## 怎么使用这个工具
 ~~假装你已经安装了go语言并且配置好了PATH~~
 
-安装工具`go install github.com/tomygin/novel`
+安装工具`go install github.com/tomygin/novel@latest`
 
 测试爬取《紫罗兰永恒花园》`novel y test`或者`novel n https://www.wenku8.net/novel/2/2353/86807.htm`
 
